@@ -1,6 +1,6 @@
 # 04 Design to code
 
-The Remittix front ends were designed in Figma and built with Claude Code, by Filip under my product and creative direction. What made that work was the written rules each app follows. They turn the design principles into checks the code has to pass, so the build cannot drift from the design.
+The Remittix front ends were designed in Figma and built with Claude Code, by Filip Mravić under my product and creative direction. What made that work was the written rules each app follows. They turn the design principles into checks the code has to pass, so the build cannot drift from the design.
 
 Each app is React 19, Vite and TypeScript, deployed on Vercel, with demo data in one module per area so a real API replaces a file, not a component.
 

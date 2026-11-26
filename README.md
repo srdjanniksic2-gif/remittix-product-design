@@ -11,7 +11,7 @@ This repository is the product and design process behind that work, with excerpt
 | | |
 |---|---|
 | **Srdjan Nikšić** | Product lead, creative direction and lead product designer since 2022. Set the product direction, the flows, the design principles and the design system, and reviewed every release. |
-| **Filip** (Diversify) | Design execution and front-end build, and continued the design within that direction. |
+| **Filip Mravić** (Diversify) | Design execution and front-end build, and continued the design within that direction. |
 | **Process** | Figma first, then front ends built with Claude Code against written design rules, reviewed on live builds. |
 | **Stack** | React 19, Vite, TypeScript, Vercel |
 
